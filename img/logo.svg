@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="240"
+   height="120"
+   viewBox="0 0 63.500004 31.749999"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.94117647"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="62.325393"
+     inkscape:cy="38.465086"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:snap-page="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid40" />
+    <sodipodi:guide
+       position="28.726191,97.517857"
+       orientation="0,793.70079"
+       id="guide7743"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="210,0"
+       orientation="-1122.5197,0"
+       id="guide7745"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="22.678572,142.11905"
+       orientation="0,-793.70079"
+       id="guide7747"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="61.988095,135.69345"
+       orientation="1,0"
+       id="guide7749"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     transform="translate(0,-265.25002)">
+    <rect
+       style="fill:#ffff00;stroke-width:0.0621907"
+       id="rect18"
+       width="0.17710148"
+       height="0.71310365"
+       x="48.165691"
+       y="137.67691"
+       rx="88.766983" />
+    <rect
+       style="fill:#ffff00;stroke-width:0.08268076"
+       id="rect12"
+       width="36.659866"
+       height="30.582954"
+       x="25.328228"
+       y="266.00558" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.77169704px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10178851"
+       x="4.6225758"
+       y="275.67892"
+       id="text50"
+       transform="scale(0.97618719,1.0243937)"><tspan
+         sodipodi:role="line"
+         id="tspan48"
+         x="4.6225758"
+         y="275.67892"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.77169704px;line-height:1000;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.10178851">Next Level</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot52"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.06198551,0,0,0.06239656,46.925982,137.34141)"><flowRegion
+         id="flowRegion54"><rect
+           id="rect56"
+           width="141.42136"
+           height="44.446712"
+           x="296.98486"
+           y="585.11853" /></flowRegion><flowPara
+         id="flowPara58" /></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.07154036px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10178851"
+       x="12.33423"
+       y="279.12344"
+       id="text62"
+       transform="scale(0.97618719,1.0243937)"><tspan
+         sodipodi:role="line"
+         id="tspan60"
+         x="12.33423"
+         y="279.12344"
+         style="stroke-width:0.10178851">Construction company</tspan></text>
+  </g>
+</svg>
